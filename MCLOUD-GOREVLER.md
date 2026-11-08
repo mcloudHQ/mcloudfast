@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-07T10:47:53Z -->
+<!-- mcloud-sync:start since=2026-11-08T10:59:29Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -187,4 +187,13 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-06 · [Issue #153](https://github.com/mcloudHQ/mcloud/issues/153): Redesign sidebar player with the latest ios 27 style
 - 2026-11-06 · [PR #159](https://github.com/mcloudHQ/mcloud/pull/159): Scrolling: :has() rules name their last compound, a narrower restyle (#137) (STATUS.md değişti)
 - 2026-11-07 · [PR #171](https://github.com/mcloudHQ/mcloud/pull/171): Now Playing: say where Spicy's Animated Background setting lives
+- 2026-11-07 · [Issue #151](https://github.com/mcloudHQ/mcloud/issues/151): Inconsistent layout and spacing in song preview on smaller windows
+- 2026-11-07 · [Issue #133](https://github.com/mcloudHQ/mcloud/issues/133): Recently played section in queue feels laggy
+- 2026-11-07 · [Issue #137](https://github.com/mcloudHQ/mcloud/issues/137): Scrolling Performance Feels Laggy (Low FPS)
+- 2026-11-07 · [PR #172](https://github.com/mcloudHQ/mcloud/pull/172): Browse all: find the genre grid by data-am-genres, not its class (#167) (STATUS.md değişti)
+- 2026-11-07 · [Issue #167](https://github.com/mcloudHQ/mcloud/issues/167): Browse All Apple Music duotone covers flash briefly then disappear
+- 2026-11-07 · [PR #173](https://github.com/mcloudHQ/mcloud/pull/173): Windows light mode: dark capsules under the caption buttons and the "…" (#150)
+- 2026-11-07 · [Issue #150](https://github.com/mcloudHQ/mcloud/issues/150): Light mode on Windows: window controls and the three-dot menu are invisible
+- 2026-11-07 · [PR #174](https://github.com/mcloudHQ/mcloud/pull/174): Glass: compute the pre-blur and thin lines once per frame (#137) (STATUS.md değişti)
+- 2026-11-07 · [PR #177](https://github.com/mcloudHQ/mcloud/pull/177): Album colour: a vivid Full, plus Solid and Apple Music fills (#175)
 <!-- mcloud-sync:end -->
