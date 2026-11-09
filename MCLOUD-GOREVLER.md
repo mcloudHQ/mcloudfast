@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-08T10:59:29Z -->
+<!-- mcloud-sync:start since=2026-11-09T13:00:27Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -196,4 +196,28 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-07 · [Issue #150](https://github.com/mcloudHQ/mcloud/issues/150): Light mode on Windows: window controls and the three-dot menu are invisible
 - 2026-11-07 · [PR #174](https://github.com/mcloudHQ/mcloud/pull/174): Glass: compute the pre-blur and thin lines once per frame (#137) (STATUS.md değişti)
 - 2026-11-07 · [PR #177](https://github.com/mcloudHQ/mcloud/pull/177): Album colour: a vivid Full, plus Solid and Apple Music fills (#175)
+- 2026-11-08 · [PR #185](https://github.com/mcloudHQ/mcloud/pull/185): Album pages: room above the player at the bottom
+- 2026-11-08 · [Issue #184](https://github.com/mcloudHQ/mcloud/issues/184): Bottom Player Overlaps Content on Album Pages
+- 2026-11-08 · [PR #180](https://github.com/mcloudHQ/mcloud/pull/180): Artist page: fallback icon for artists without a photo
+- 2026-11-08 · [Issue #178](https://github.com/mcloudHQ/mcloud/issues/178): Missing artist fallback icon
+- 2026-11-08 · [PR #191](https://github.com/mcloudHQ/mcloud/pull/191): Search results over the Now Playing pane (#181)
+- 2026-11-08 · [PR #193](https://github.com/mcloudHQ/mcloud/pull/193): For #182: Now Playing docked, no strip above the artwork
+- 2026-11-08 · [PR #189](https://github.com/mcloudHQ/mcloud/pull/189): For #183: no accent step before the album colour on Play and Shuffle
+- 2026-11-08 · [PR #188](https://github.com/mcloudHQ/mcloud/pull/188): Keep class-substring selectors off the class-change path (#137) (STATUS.md değişti)
+- 2026-11-08 · [PR #186](https://github.com/mcloudHQ/mcloud/pull/186): Home cards: fix corners and shadow (#176)
+- 2026-11-08 · [Issue #176](https://github.com/mcloudHQ/mcloud/issues/176): Cover art double rounded corners and harsh drop shadows on homepage
+- 2026-11-08 · [PR #196](https://github.com/mcloudHQ/mcloud/pull/196): Song preview over the Now Playing pane (#195)
+- 2026-11-08 · [PR #192](https://github.com/mcloudHQ/mcloud/pull/192): Clean album list: featured artists shown, hidden or in the title (#187) (STATUS.md değişti)
+- 2026-11-08 · [PR #197](https://github.com/mcloudHQ/mcloud/pull/197): Home: mix covers named on the big cards and shortcuts, Apple's star (#194)
+- 2026-11-08 · [PR #198](https://github.com/mcloudHQ/mcloud/pull/198): Now Playing: controls at the bottom, Playing Next in the pane (#182)
+- 2026-11-08 · [PR #201](https://github.com/mcloudHQ/mcloud/pull/201): Liked Songs: Music's Favourite Songs cover, a star for Recents' added mark
+- 2026-11-08 · [Issue #181](https://github.com/mcloudHQ/mcloud/issues/181): Now Playing artwork draws over the search dropdown
+- 2026-11-08 · [Issue #183](https://github.com/mcloudHQ/mcloud/issues/183): Album colour: the play button flashes red before the album's colour
+- 2026-11-08 · [Issue #187](https://github.com/mcloudHQ/mcloud/issues/187): Clean album track list: option to hide featured artists
+- 2026-11-08 · [Issue #194](https://github.com/mcloudHQ/mcloud/issues/194): Apple Music mix cover text missing in "Made for you" section
+- 2026-11-08 · [Issue #195](https://github.com/mcloudHQ/mcloud/issues/195): Blended artwork background overlaps song preview modal
+- 2026-11-08 · [PR #203](https://github.com/mcloudHQ/mcloud/pull/203): Toolbar glass: Liquid Glass off keeps it; Home centred in its circle
+- 2026-11-08 · [PR #190](https://github.com/mcloudHQ/mcloud/pull/190): Settings: a System Settings window, and settings where they act (#179)
+- 2026-11-08 · [Issue #179](https://github.com/mcloudHQ/mcloud/issues/179): Cramped options in settings modal
+- 2026-11-08 · [PR #204](https://github.com/mcloudHQ/mcloud/pull/204): README: shorter and up to date, with the org logo (tema dosyası yok)
 <!-- mcloud-sync:end -->
