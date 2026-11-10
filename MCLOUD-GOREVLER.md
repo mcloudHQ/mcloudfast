@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-09T13:00:27Z -->
+<!-- mcloud-sync:start since=2026-11-10T12:35:18Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -220,4 +220,13 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-08 · [PR #190](https://github.com/mcloudHQ/mcloud/pull/190): Settings: a System Settings window, and settings where they act (#179)
 - 2026-11-08 · [Issue #179](https://github.com/mcloudHQ/mcloud/issues/179): Cramped options in settings modal
 - 2026-11-08 · [PR #204](https://github.com/mcloudHQ/mcloud/pull/204): README: shorter and up to date, with the org logo (tema dosyası yok)
+- 2026-11-09 · [PR #207](https://github.com/mcloudHQ/mcloud/pull/207): Glass for Encore's inline tooltips ("New release from" card, #199)
+- 2026-11-09 · [PR #209](https://github.com/mcloudHQ/mcloud/pull/209): Now Playing: Spicy Lyrics instead of the player, and a width setting (#182) (STATUS.md değişti)
+- 2026-11-09 · [PR #205](https://github.com/mcloudHQ/mcloud/pull/205): Menus: no "New playlist" inside a folder's submenu in Add to playlist (#202)
+- 2026-11-09 · [PR #208](https://github.com/mcloudHQ/mcloud/pull/208): Home: "New release from" card as Music's Latest Release (#199)
+- 2026-11-09 · [Issue #199](https://github.com/mcloudHQ/mcloud/issues/199): Redesign "New release from" card
+- 2026-11-09 · [PR #206](https://github.com/mcloudHQ/mcloud/pull/206): Windows: macOS traffic lights in place of the caption buttons (#200) (STATUS.md değişti)
+- 2026-11-09 · [PR #211](https://github.com/mcloudHQ/mcloud/pull/211): Playing Next: song menu on right-click, History above it, lighter rows (#210)
+- 2026-11-09 · [Issue #210](https://github.com/mcloudHQ/mcloud/issues/210): \[Feature Request\] Context menu for songs and recently played list in embedded queue view
+- 2026-11-09 · [PR #212](https://github.com/mcloudHQ/mcloud/pull/212): Now Playing: larger lyrics under the artwork (#182)
 <!-- mcloud-sync:end -->
