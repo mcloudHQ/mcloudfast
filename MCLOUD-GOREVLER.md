@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-15T11:49:34Z -->
+<!-- mcloud-sync:start since=2026-11-16T12:46:37Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -237,4 +237,10 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-15 · [Issue #215](https://github.com/mcloudHQ/mcloud/issues/215): Home: mix cover names lose their descenders (g, p, y) on gradient covers
 - 2026-11-15 · [Issue #218](https://github.com/mcloudHQ/mcloud/issues/218): \[Bug Report\] Apple Music mix and radio covers revert to default Spotify covers in search suggestions
 - 2026-11-15 · [PR #221](https://github.com/mcloudHQ/mcloud/pull/221): Windows verification: docked toolbar, Ctrl+Alt+, on Turkish Q, carousel glass with Spicy (STATUS.md değişti)
+- 2026-11-15 · [PR #224](https://github.com/mcloudHQ/mcloud/pull/224): Window buttons: Windows 11's buttons drawn by mcloud, as an option (#200)
+- 2026-11-15 · [PR #225](https://github.com/mcloudHQ/mcloud/pull/225): Artist stations as Apple's "& Similar Artists" covers (#219) (STATUS.md değişti)
+- 2026-11-15 · [Issue #219](https://github.com/mcloudHQ/mcloud/issues/219): \[Feature Request\] Redesign "... Radio" covers to match Apple Music's "Similar Artists" station style
+- 2026-11-15 · [PR #226](https://github.com/mcloudHQ/mcloud/pull/226): Settings: Light glass, Reduce motion and Optimized mode (#217) (STATUS.md değişti)
+- 2026-11-15 · [Issue #217](https://github.com/mcloudHQ/mcloud/issues/217): \[Feature Request\] Add an "Optimized Mode" / Performance Settings to reduce CPU and RAM usage
+- 2026-11-15 · [Issue #200](https://github.com/mcloudHQ/mcloud/issues/200): \[Feature Request\] macOS-style window controls (traffic lights) for Windows
 <!-- mcloud-sync:end -->
