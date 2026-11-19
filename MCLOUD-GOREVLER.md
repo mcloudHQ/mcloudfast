@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-16T12:46:37Z -->
+<!-- mcloud-sync:start since=2026-11-19T13:30:12Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -243,4 +243,5 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-15 · [PR #226](https://github.com/mcloudHQ/mcloud/pull/226): Settings: Light glass, Reduce motion and Optimized mode (#217) (STATUS.md değişti)
 - 2026-11-15 · [Issue #217](https://github.com/mcloudHQ/mcloud/issues/217): \[Feature Request\] Add an "Optimized Mode" / Performance Settings to reduce CPU and RAM usage
 - 2026-11-15 · [Issue #200](https://github.com/mcloudHQ/mcloud/issues/200): \[Feature Request\] macOS-style window controls (traffic lights) for Windows
+- 2026-11-18 · [PR #227](https://github.com/mcloudHQ/mcloud/pull/227): Menus on Spotify 1.3.10's Encore menus; Spicy panel corner square (STATUS.md değişti)
 <!-- mcloud-sync:end -->
