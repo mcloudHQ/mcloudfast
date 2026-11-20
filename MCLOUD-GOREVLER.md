@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-19T13:30:12Z -->
+<!-- mcloud-sync:start since=2026-11-20T13:08:09Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -244,4 +244,12 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-15 · [Issue #217](https://github.com/mcloudHQ/mcloud/issues/217): \[Feature Request\] Add an "Optimized Mode" / Performance Settings to reduce CPU and RAM usage
 - 2026-11-15 · [Issue #200](https://github.com/mcloudHQ/mcloud/issues/200): \[Feature Request\] macOS-style window controls (traffic lights) for Windows
 - 2026-11-18 · [PR #227](https://github.com/mcloudHQ/mcloud/pull/227): Menus on Spotify 1.3.10's Encore menus; Spicy panel corner square (STATUS.md değişti)
+- 2026-11-20 · [PR #234](https://github.com/mcloudHQ/mcloud/pull/234): Search suggestions, song stations, alerts and Edit details (#229, #231, #232, #233)
+- 2026-11-20 · [Issue #231](https://github.com/mcloudHQ/mcloud/issues/231): \[Bug Report\] Search suggestions dropdown stays open after clicking a result immediately
+- 2026-11-20 · [Issue #229](https://github.com/mcloudHQ/mcloud/issues/229): \[Bug Report\] Song and genre radios still use the older single-circle cover style
+- 2026-11-20 · [Issue #233](https://github.com/mcloudHQ/mcloud/issues/233): \[Feature Request\] Restyle delete confirmation popups to match Apple Music's alert dialogs
+- 2026-11-20 · [Issue #232](https://github.com/mcloudHQ/mcloud/issues/232): \[Feature Request\] Redesign the playlist "Edit details" popup to match Apple Music's "Edit Playlist" modal
+- 2026-11-20 · [Issue #182](https://github.com/mcloudHQ/mcloud/issues/182): \[Feature Request\] Improved Now Playing sidebar layout, queue integration, and resizing
+- 2026-11-20 · [PR #235](https://github.com/mcloudHQ/mcloud/pull/235): Compact album rows: Music's 48px on albums of up to 50 rows (#175)
+- 2026-11-20 · [Issue #175](https://github.com/mcloudHQ/mcloud/issues/175): \[Feature Request\] Enhance Album Accent Colours
 <!-- mcloud-sync:end -->
