@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-20T13:08:09Z -->
+<!-- mcloud-sync:start since=2026-11-21T12:33:30Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -252,4 +252,6 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-20 · [Issue #182](https://github.com/mcloudHQ/mcloud/issues/182): \[Feature Request\] Improved Now Playing sidebar layout, queue integration, and resizing
 - 2026-11-20 · [PR #235](https://github.com/mcloudHQ/mcloud/pull/235): Compact album rows: Music's 48px on albums of up to 50 rows (#175)
 - 2026-11-20 · [Issue #175](https://github.com/mcloudHQ/mcloud/issues/175): \[Feature Request\] Enhance Album Accent Colours
+- 2026-11-20 · [PR #237](https://github.com/mcloudHQ/mcloud/pull/237): Account menu: Your Updates rows fixed, and an icon on every row (#236)
+- 2026-11-20 · [Issue #236](https://github.com/mcloudHQ/mcloud/issues/236): \[Bug Report\] "Your Updates" rows overlap in the account menu on Spotify 1.3.10
 <!-- mcloud-sync:end -->
