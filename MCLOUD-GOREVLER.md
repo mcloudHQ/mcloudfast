@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-21T12:33:30Z -->
+<!-- mcloud-sync:start since=2026-11-22T12:26:40Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -254,4 +254,12 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-20 · [Issue #175](https://github.com/mcloudHQ/mcloud/issues/175): \[Feature Request\] Enhance Album Accent Colours
 - 2026-11-20 · [PR #237](https://github.com/mcloudHQ/mcloud/pull/237): Account menu: Your Updates rows fixed, and an icon on every row (#236)
 - 2026-11-20 · [Issue #236](https://github.com/mcloudHQ/mcloud/issues/236): \[Bug Report\] "Your Updates" rows overlap in the account menu on Spotify 1.3.10
+- 2026-11-21 · [PR #243](https://github.com/mcloudHQ/mcloud/pull/243): Smoke: fix the flaky search results and menu glass checks (tema dosyası yok)
+- 2026-11-21 · [PR #240](https://github.com/mcloudHQ/mcloud/pull/240): Local Files in the sidebar and All Playlists, and local tracks' links (#239)
+- 2026-11-21 · [Issue #239](https://github.com/mcloudHQ/mcloud/issues/239): Local Files aren't appearing
+- 2026-11-21 · [PR #241](https://github.com/mcloudHQ/mcloud/pull/241): This Is covers, explicit marks and the More by heading (#228, #238)
+- 2026-11-21 · [PR #244](https://github.com/mcloudHQ/mcloud/pull/244): Explicit albums on cards and suggestions by glass mode (#238); "… Essentials" and the moving cover name (#228)
+- 2026-11-21 · [PR #242](https://github.com/mcloudHQ/mcloud/pull/242): Discography list view as album pages (#230)
+- 2026-11-21 · [PR #245](https://github.com/mcloudHQ/mcloud/pull/245): Settings window: macOS traffic lights instead of the round close button
+- 2026-11-21 · [Issue #238](https://github.com/mcloudHQ/mcloud/issues/238): \[Feature Request\] Consistent Apple Music explicit badge styling and placement across albums and search
 <!-- mcloud-sync:end -->
