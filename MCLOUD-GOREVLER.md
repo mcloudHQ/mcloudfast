@@ -172,7 +172,7 @@ Her kaydı yukarıdaki tablolara işle, sonra buradan sil. "tema dosyası yok"
 yazan kayıtlar (CI, kurulum, Pages) çoğunlukla mcloudfast'ı ilgilendirmez.
 Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 
-<!-- mcloud-sync:start since=2026-11-22T12:26:40Z -->
+<!-- mcloud-sync:start since=2026-11-24T14:58:23Z -->
 - 2026-11-06 · [PR #164](https://github.com/mcloudHQ/mcloud/pull/164): Home: every card's text starts level under the artwork, one-line titles (#163) (STATUS.md değişti)
 - 2026-11-06 · [Issue #163](https://github.com/mcloudHQ/mcloud/issues/163): Inconsistent spacing and text alignment on homepage cards
 - 2026-11-06 · [PR #166](https://github.com/mcloudHQ/mcloud/pull/166): Artist and search shelves: the arrows show on hover, as circles of Home's glass (#165) (STATUS.md değişti)
@@ -262,4 +262,8 @@ Spicetify'a özgü olanlar (`hashed class`, `Spicetify bindings`) da öyle.
 - 2026-11-21 · [PR #242](https://github.com/mcloudHQ/mcloud/pull/242): Discography list view as album pages (#230)
 - 2026-11-21 · [PR #245](https://github.com/mcloudHQ/mcloud/pull/245): Settings window: macOS traffic lights instead of the round close button
 - 2026-11-21 · [Issue #238](https://github.com/mcloudHQ/mcloud/issues/238): \[Feature Request\] Consistent Apple Music explicit badge styling and placement across albums and search
+- 2026-11-23 · [PR #247](https://github.com/mcloudHQ/mcloud/pull/247): Encore submenus: drop Spotify's drop-shadow filter so the glass sees the page (#246)
+- 2026-11-23 · [Issue #246](https://github.com/mcloudHQ/mcloud/issues/246): \[Bug Report\] Spotify's submenus are a flat grey box in light mode (Move to folder)
+- 2026-11-23 · [PR #249](https://github.com/mcloudHQ/mcloud/pull/249): Long Encore submenus: count their height in the theme's rows (#248)
+- 2026-11-23 · [Issue #248](https://github.com/mcloudHQ/mcloud/issues/248): \[Bug Report\] Long submenus (Add to playlist, Move to folder) leave empty space under their rows on Spotify 1.3.10
 <!-- mcloud-sync:end -->
